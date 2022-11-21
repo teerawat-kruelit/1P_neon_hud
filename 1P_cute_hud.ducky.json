@@ -2,12 +2,12 @@
     "version": "1.0",
     "Array": [
         {
-          "ip":"124.120.4.192",
-          "host" :"ducky",
+          	"ip":"124.120.4.192",
+          	"host" :"ducky",
         },
         {
-			"ip":"103.167.193.57",
-			"host":"UNIQUE SCHOOL",
-		},
+		"ip":"103.167.193.57",
+		"host":"UNIQUE SCHOOL",
+	},
     ]
 }
